@@ -160,6 +160,45 @@ https://www.cryptoparty.in/
 ### Ubuntu & Apache & SSL
 * https://pastebin.com/N68VMscn
 
+## Blockchain
+
+### Do you need a blockchain?
+* http://doyouneedablockchain.com/
+* https://eprint.iacr.org/2017/375.pdf
+
+### Blockchain Demo
+* https://andersbrownworth.com/blockchain/
+
+### Blockchain Demo
+* https://blockchaindemo.io/
+
+### Bitcoin
+* https://bitcoin.org/
+
+### Satoshi Nakamoto, ”Bitcoin: A Peer-to-Peer Electronic Cash System”
+* https://bitcoin.org/bitcoin.pdf
+
+### Bitcoin Block Explorer
+* https://www.blockchain.com/explorer
+
+### Ethereum
+* https://ethereum.org/
+
+### State of the Dapps
+* https://www.stateofthedapps.com/
+
+### Dappradar
+* https://dappradar.com/
+
+### Learn to Code Blockchain DApps
+* https://cryptozombies.io/
+
+### CryptoKitties
+* https://www.cryptokitties.co/
+
+### Blockchain based file sharing
+* https://blackhole.run/
+
 ## Mail Groups / Resources
 
 ### Forums for discussing modern cryptographic practice
