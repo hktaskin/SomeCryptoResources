@@ -129,6 +129,12 @@ https://www.cryptoparty.in/
 * https://sha-mbles.github.io
 * https://eprint.iacr.org/2020/014.pdf
 
+### ';--have i been pwned?
+* https://haveibeenpwned.com/
+
+### Most Used Passwords Lists
+* https://github.com/danielmiessler/SecLists/tree/master/Passwords
+
 ## Tor
 
 ### Tor Project
