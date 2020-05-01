@@ -254,5 +254,11 @@ https://www.cryptoparty.in/
 ### The Cryptopals Crypto Challenges
 * https://cryptopals.com/
 
+### CryptoHack
+* https://cryptohack.org/
+
+### MysteryTwister C3
+* https://www.mysterytwisterc3.org/
+
 ### Underhanded Crypto Contest
 * https://underhandedcrypto.com/
