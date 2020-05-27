@@ -164,6 +164,7 @@ https://www.cryptoparty.in/
 * https://www.ssllabs.com/projects/
 
 ### Ubuntu & Apache & SSL
+* https://gist.github.com/hktaskin/7c99c8a4816eca334e0909639297c1c3
 * https://pastebin.com/N68VMscn
 
 ## Blockchain
