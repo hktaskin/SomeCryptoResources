@@ -264,9 +264,6 @@ https://www.cryptoparty.in/
 ### Underhanded Crypto Contest
 * https://underhandedcrypto.com/
 
-### CRYPTOHACK ###
-* https://cryptohack.org/
-
 ### pwn.college ###
 * https://pwn.college/
 
